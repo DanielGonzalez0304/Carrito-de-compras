@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 30.00,
+        "id": 1,
+        "title": "Bombon",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Bombon.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 1,
+        "title": "Paletas Bubbalo",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Bubbaloo.jpg" 
+    },
+    {
+        "precio": 40.00,
+        "id": 1,
+        "title": "Caramelos rellenos",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Caramelo%20relleno.jpg"
+    },
+    {
+        "precio": 25.00,
+        "id": 1,
+        "title": "Dulce Crispies de arroz",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Dulce%20Crispies%20de%20arroz.jpg"
+    },
+    {
+        "precio": 15.00,
+        "id": 1,
+        "title": "Gomitas Panditas",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Gomitas%20Panditas.jpg"
+    },
+    {
+        "precio": 35.00,
+        "id": 1,
+        "title": "Gusanitos acidos",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Gusanitos%20acidos.png"
+    },
+    {
+        "precio": 45.00,
+        "id": 1,
+        "title": "Chocolates",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Chocolates.jpg"
+    },
+    {
+        "precio": 60.00,
+        "id": 1,
+        "title": "Jabalina de tamarindo",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Jabalina%20Tamarindo.jpg"
+    },
+    {
+        "precio": 25.00,
+        "id": 1,
+        "title": "Jollyrancher",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Jollyrancher.jpg"
+    },
+    {
+        "precio": 28.00,
+        "id": 1,
+        "title": "Paleta Chupachups",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Paleta%20Chupachups.jpg"
+    },
+    {
+        "precio": 50.00,
+        "id": 1,
+        "title": "Pica fresa",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/Picafresa.jpg"
+    },
+    {
+        "precio": 25.00,
+        "id": 1,
+        "title": "SNICKERS",
+        "thumbnailUrl": "https://tareasautomatizacion.000webhostapp.com/Catalago1/SNICKERS.jpg"
+    }
+]
